@@ -10,5 +10,6 @@ class LoginController extends \yii\web\Controller
     {
         $name = $_REQUEST['name'];
         $password = $_REQUEST['password'];
+
     }
 }
