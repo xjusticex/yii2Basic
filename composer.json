@@ -50,5 +50,10 @@
             "npm-asset-library": "vendor/npm",
             "bower-asset-library": "vendor/bower"
         }
+    },
+    "autoload": {
+        "classmap": [
+            "vendor/BasicFun"
+        ]
     }
 }
