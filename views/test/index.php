@@ -2,7 +2,7 @@
 /* @var $this yii\web\View */
 ?>
 <script type="text/javascript" src="/ckeditor/ckeditor.js"></script>
-<form action="test/upload" method="post">
+<form action="/test/upload" method="post">
 <textarea id="editor1" name="editor1" ></textarea>
 </form>
 <script>
