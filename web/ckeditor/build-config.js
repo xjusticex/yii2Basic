@@ -89,7 +89,7 @@ var CKBUILDER_CONFIG = {
 		'pagebreak' : 1,
 		'pastefromword' : 1,
 		'pastetext' : 1,
-		'pbckcode' : 1,
+		'pbckcode' : 0,
 		'preview' : 1,
 		'print' : 1,
 		'qrc' : 1,
