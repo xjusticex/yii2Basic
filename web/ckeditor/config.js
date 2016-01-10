@@ -8,6 +8,6 @@ CKEDITOR.editorConfig = function( config ) {
 	// config.language = 'fr';
 	// config.uiColor = '#AADC6E';
     config.extraPlugins = 'uploadimage';
-    config.uploadUrl = '/upload';
+    config.uploadUrl = 'uploader';
     config.mathJaxLib = './plugins/mathjax/dialogs/mathjax.js';
 };

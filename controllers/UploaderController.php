@@ -2,7 +2,7 @@
 
 namespace app\controllers;
 
-class UploadController extends \yii\web\Controller
+class UploaderController extends \yii\web\Controller
 {
     public $enableCsrfValidation = false;
     public function actionIndex()
